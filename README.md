@@ -1,4 +1,4 @@
-# Easy Spaces Aura Sample Application
+x# Easy Spaces Aura Sample Applicationx
 
 > IMPORTANT: This is the Aura version of the Easy Spaces sample application. If you are looking for the new Lightning Web Components version, click [here](https://github.com/trailheadapps/easy-spaces-lwc).
 
