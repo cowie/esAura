@@ -14,7 +14,7 @@
     onclick="{!c.handleToggle}"/>
 
 <lightning:layout>
-    
+    Hi Mom!
     <lightning:layoutItem aura:id="leftColumn" size="4" class="left expanded">
         {!v.leftColumn}
     </lightning:layoutItem>
